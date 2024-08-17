@@ -1,3 +1,5 @@
+# **ОТДЫХАЙТЕ**
+
 Project topic: Determining the sentiment of reviews of banks
 
 It was necessary to create a machine learning model to determine the sentiment of text reviews of banks. Texts of reviews in Russian. The tone of the reviews can be positive or negative.
