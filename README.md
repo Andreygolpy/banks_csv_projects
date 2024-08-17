@@ -64,7 +64,7 @@ Expected results:
  • Identification of general trends and problem areas in the work of banks based on an analysis of the sentiment of reviews.
 Technologies and tools:
  • Programming languages: Python
- • Files: inpynb, py, csv, txt, json
+ • Files: inpynb, py, csv, txt, json, pkl
  • Libraries: numpy, pandas, seaborn, matplotlib, sklearn.model_selection, nltk.corpus, nltk.stem, rank_bm25, sklearn.linear_model, sklearn.metrics, matplotlib.pyplot, joblib, LogisticRegression
  • Platforms for data collection: Banki.ru
  • Tables: csv, json
@@ -144,7 +144,7 @@ sample_submission.csv
     • Выявление общих тенденций и проблемных зон в работе банков на основе анализа тональности отзывов.
 Технологии и инструменты:
     • Языки программирования: Python
-    • Файлы: inpynb, py, csv, txt, json
+    • Файлы: inpynb, py, csv, txt, json, pkl
     • Библиотеки: numpy, pandas, seaborn, matplotlib,  sklearn.model_selection, nltk.corpus, nltk.stem, rank_bm25, sklearn.linear_model, sklearn.metrics, matplotlib.pyplot, joblib, LogisticRegression
     • Платформы для сбора данных: Банки.ру 
     • Таблицы: csv, json
