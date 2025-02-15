@@ -1,4 +1,4 @@
-# **ОТДЫХАЙТЕ**
+# **Проект**
 
 Project topic: Determining the sentiment of reviews of banks
 
